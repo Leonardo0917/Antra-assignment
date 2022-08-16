@@ -51,6 +51,8 @@
     padding-bottom: 5px;
 }
 
-#fname, #lname, #pwd, #cpwd {
-    display: inline;
+input:focus {
+    border:2px solid DodgerBlue;
+    outline: none !important;
+    box-shadow: 0 0 10px #719ECE;
 }
