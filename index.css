@@ -1,0 +1,56 @@
+.centerContainer {
+    margin: auto;
+    width: 50%;
+    min-width: 300px;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.smallItem {
+    margin: 5px;
+    size: 20%;
+    min-height: 24px;
+}
+
+.item {
+    margin: 5px;
+    min-width: 41%;
+    min-height: 24px;
+}
+
+.bgColorBlue {
+    background: rgba(53, 110, 234, 0.8);
+    text-align: center;
+    color: white;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.colorBlue {
+    color: rgb(97, 121, 197);
+}
+
+.btnBlue {
+    background: rgba(53, 110, 234, 0.8);
+    text-align: center;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btnGreen {
+    background: rgba(15, 156, 79, 0.8);
+    text-align: center;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#fname, #lname, #pwd, #cpwd {
+    display: inline;
+}
